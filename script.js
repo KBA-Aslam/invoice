@@ -127,13 +127,13 @@ function generateInvoice(event) {
 
                                 <div class="mb-3">
                                     <h5>Terms & Conditions</h5>
-                                    <p>The tour guide is solely for the purpose of enhancing your travel experience. While we strive to offer accurate information and guidance, we cannot be held responsible for any unforeseen circumstances such as weather conditions, transportation delays, or changes in itinerary beyond our control. Payment for the tour guide services is non-refundable unless otherwise stated. Any additional expenses incurred during the tour, such as entrance fees or meals, are the responsibility of the traveler. We reserve the right to make changes to the tour itinerary if necessary for the safety and enjoyment of all participants. Thank you for choosing our tour guide services, and we look forward to providing you with an unforgettable experience.</p>
+                                    <p class="terms">The tour guide is solely for the purpose of enhancing your travel experience. While we strive to offer accurate information and guidance, we cannot be held responsible for any unforeseen circumstances such as weather conditions, transportation delays, or changes in itinerary beyond our control. Payment for the tour guide services is non-refundable unless otherwise stated. Any additional expenses incurred during the tour, such as entrance fees or meals, are the responsibility of the traveler. We reserve the right to make changes to the tour itinerary if necessary for the safety and enjoyment of all participants. Thank you for choosing our tour guide services, and we look forward to providing you with an unforgettable experience.</p>
                                 </div>
                                 
                                 <hr />
 
                                 <div class="mb-5">
-                                    <span class="text-secondary-d1 text-105 d-flex justify-content-center">Thank you for choosing us to explore the wonders of Madinah.. May Allah (SWT) bless you.</span>
+                                    <span class="text-secondary-d1 text-105 d-flex justify-content-center">Thank you for choosing us to explore the wonders of Madinah. May Allah (SWT) bless you.</span>
                                 </div>
                             </div>
                         </div>
