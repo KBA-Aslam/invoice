@@ -87,9 +87,9 @@ function generateInvoice(event) {
                                     <div class="col-2">Room Type</div>
                                     <div class="col-2">Check In</div>
                                     <div class="col-2">Check Out</div>
-                                    <div class="col-2">Meal</div>
-                                    <div class="col-1">Total Room</div>
-                                    <div class="col-1">Total Night</div>
+                                    <div class="col-1">Meal</div>
+                                    <div class="col-2">Total Room</div>
+                                    <div class="col-2">Total Night</div>
                                     <div class="col-1">Amount</div>
                                 </div>
 
@@ -98,9 +98,9 @@ function generateInvoice(event) {
                                         <div class="col-2">${roomType}</div>
                                         <div class="col-2">${checkInDate}</div>
                                         <div class="col-2">${checkOutDate}</div>
-                                        <div class="col-2">${meal}</div>
-                                        <div class="col-1">${totalRoom}</div>
-                                        <div class="col-1">${totalNight}</div>
+                                        <div class="col-1">${meal}</div>
+                                        <div class="col-2">${totalRoom}</div>
+                                        <div class="col-2">${totalNight}</div>
                                         <div class="col-1">${rate}</div>
                                     </div>
                                 </div>
